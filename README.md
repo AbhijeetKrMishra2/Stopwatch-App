@@ -1,3 +1,3 @@
 # Stopwatch-App
 
-# Hosted-Website Link : - https://app.netlify.com/sites/stopwatch-web-appl/configuration/general
+# Hosted-Website Link : - https://stopwatch-web-appl.netlify.app/
